@@ -15,6 +15,9 @@
 ## Installation
 To get started with the project, follow these steps:
 
+### WebSocket Protocol:
+<img width="584" alt="Image" src="https://github.com/user-attachments/assets/f487b706-2dea-46fd-9f03-15280fcff040" />
+
 ### 1. Clone the Repository
 ```
 git clone https://github.com/razputshivanshu/ChatterBox.git
